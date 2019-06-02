@@ -2,7 +2,8 @@
 #@time : 2019/5/7 1:02
 # @Author : apple
 #@file : run.py
-
+import sys
+sys.path.append('./')
 import unittest
 import HTMLTestRunnerNew
 
